@@ -1,0 +1,33 @@
+p/n ~ positive/negative
+dS/dA ~ dynamic single / dynamic array
+lc/fpb/fr ~ local context / function pointer backwards / function return
+ln/rp/cd ~ linear / 'for' loop / 'if' condition
+
+construction
+if (p==0) {
+	return 1;
+}
+is used to check 'malloc' correctness
+
+construction
+int *func(int a) 
+{
+	int *p = (int *)malloc(sizeof(int));
+	if (p == 0) {
+		return NULL;
+	}
+	(*p) = a;
+	return p;
+}
+is used to create dynamic copy of 'a'
+
+construction
+int func (int **p)
+{
+	*p = (int *)malloc(sizeof(int));
+	if ((*p)==0) {
+		return 1;
+	}
+	return 0;
+}
+is used for memory allocation on pointer *p

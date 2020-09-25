@@ -1,0 +1,11 @@
+negative
+aS
+%d / %f / %s / %c
+printf / scanf
+char / char[] / int / float
+
+Classification in this case:
+
+Calculation complexity ~~ name of funcrion used, i.e. 'printf'
+Context ~~ format string of input/output without percent, i.e. 'f' for "%f"
+Code complexity ~~ type of variable, i.e. 'string'

@@ -1,0 +1,9 @@
+Invalid object
+Invalid file handler
+
+5 types of error:
+invalid mode: opening with wrong mode, which is not supported by standard
+flush error: no 'fflush' between writing and reading
+uninitialized handler: using handler without initializing with 'fopen'
+invalid operating: copying handlers by value
+mode mismatch: trying to write using 'r' mode

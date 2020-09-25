@@ -1,0 +1,14 @@
+.schema Levels
+.schema Values
+
+.schema Tests
+.schema Classification
+.schema BasicTests
+
+.schema Verifiers
+.schema Analysis
+
+.schema TestingSessions
+.schema Output
+.schema Testing
+

@@ -1,0 +1,2 @@
+2 death tests - error writing in mass by inject another size construction; int[3] 
+{+1}{}{} --> {}{write char}{}
