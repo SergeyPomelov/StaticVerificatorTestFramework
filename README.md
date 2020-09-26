@@ -1,4 +1,6 @@
 # Static Verificators Testing Framework
+![Static Verificators Testing Framework](https://i.ibb.co/ZStfrV8/vulnerability1.jpg)
+
 It's a framework and a huge tests data set to check coverage, false-positives rate, and some other merits of c/c++ static verifiers like 
 [CLion](https://www.jetbrains.com/clion/), [ISC](https://software.intel.com/content/www/us/en/develop/tools/inspector.html), [Sonar Cube](https://www.sonarqube.org/), [VS](https://visualstudio.microsoft.com/vs/features/testing-tools/), etc.
 
