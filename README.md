@@ -1,4 +1,11 @@
 # Static Verificators Testing Framework
+
+![Repository Top Language](https://img.shields.io/github/languages/top/SergeyPomelov/StaticVerificatorTestFramework)
+![Languages](https://img.shields.io/github/languages/count/SergeyPomelov/StaticVerificatorTestFramework)
+![Github Repository Size](https://img.shields.io/github/repo-size/SergeyPomelov/StaticVerificatorTestFramework)
+![Github Open Issues](https://img.shields.io/github/issues/SergeyPomelov/StaticVerificatorTestFramework)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ![Static Verificators Testing Framework](https://i.ibb.co/ZStfrV8/vulnerability1.jpg)
 
 It's a framework and a huge tests data set to check coverage, false-positives rate, and some other merits of c/c++ static verifiers like 
